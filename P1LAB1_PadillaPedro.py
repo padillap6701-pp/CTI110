@@ -1,5 +1,5 @@
-# Your Name
-# Date
+# Pedro Padilla
+# 9/21/2025
 # Assignment Name: P1LAB1
 # A brief description of the project: This program takes a user's first and last name as input and prints a welcome message.
 
@@ -10,4 +10,5 @@ first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
 
 # Print the welcome message, incorporating the user's first and last names.
+
 print("Hello,", first_name, last_name + "! Welcome to CTI-110")
