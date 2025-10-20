@@ -1,4 +1,3 @@
-
 #Program: P3LAB_LastnameFirstname.py
 #Author: Pedro Padilla
 #Date: October 19, 2025
@@ -51,6 +50,6 @@ def calculate_change():
     except ValueError:
         print("Invalid input. Please enter a numerical value (float).")
 
-# Execute the main function
 if __name__ == "__main__":
+
     calculate_change()
